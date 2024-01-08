@@ -1,0 +1,4 @@
+pyautogen[retrievechat] 
+langchain 
+chromadb<0.4.15 
+cohere
